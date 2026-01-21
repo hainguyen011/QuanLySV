@@ -1,0 +1,23 @@
+# ===== ENV FILES (GLOBAL) =====
+.env
+.env.*
+**/.env
+**/.env.*
+
+# ===== BACKEND =====
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+
+# ===== FRONTEND =====
+frontend/node_modules/
+frontend/dist/
+frontend/.next/
+frontend/.nuxt/
+
+# ===== COMMON =====
+__pycache__/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
